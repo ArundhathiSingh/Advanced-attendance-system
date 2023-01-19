@@ -60,11 +60,6 @@ python app.py
 This will lead you to the website from where you can click " Try for Free" and use the model.
 ```
 
-## Demo
-The model recognizes the person and marks his/her attendance while recognizing possible fakes like images.
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/80922064/158342796-02ddddbc-1c04-4fbf-9597-fd0db2f4717c.gif)
-
-
 ## Due to lack of time currently the attendance data is stored in a CSV file which can be accesed. Further the down the line I intend to use SQL as the database for greater functionality.
 
  
